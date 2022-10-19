@@ -1,19 +1,8 @@
-# make_your_burguer
-
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Curso de Vue
+- Js em sí
+- HTML, CSS & VUEJS 
+- Noção de JSON
+- Noção de CRUD 
+- Criação de componentes, reutilização & logica de front com back através de API
+- requisições
+ 
